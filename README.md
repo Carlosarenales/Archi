@@ -1,19 +1,19 @@
 ## ACTIVIDAD MODELO TIENDA DE BARRIO
 INFORMÁTICA I – GRUPO 2
 
+- **Requerimiento:** Tienda de Barrio, que desea vender sus productos por internet, con los medios de pagos electrónicos (Débito por Pse, Crédito) y Contraentrega en efectivo.
 
 ## INTEGRANTES: 
-OSWALDO BORRERO NUÑEZ – COD. 20212099017
-JHON EDISON GUZMAN ARIAS – COD. 20212099020
-CARLOS ENRIQUE  ARENALES RINCÓN - 20212099016
-NATHALIA ANDREA SIERRA ORTEGA – COD. 20212099025
+- OSWALDO BORRERO NUÑEZ – COD. 20212099017.
+- JHON EDISON GUZMAN ARIAS – COD. 20212099020
+- CARLOS ENRIQUE  ARENALES RINCÓN - 20212099016
+- NATHALIA ANDREA SIERRA ORTEGA – COD. 20212099025
 
-Requerimiento: Tienda de Barrio, que desea vender sus productos por internet, con los medios de pagos electrónicos (Débito por Pse, Crédito) y Contraentrega en efectivo.
 ## Roles: 
-Cliente
-Administrador (Tendero)
-Domiciliario
-Proveedor
+Cliente.
+Administrador (Tendero).
+Domiciliario.
+Proveedor.
 
 ## Actividades Roles: 
 1. Cliente: es el consumidor de los productos.
@@ -53,26 +53,32 @@ Proveedor
 ## Vistas ARCHIMATE
 
 - **Cooperación despacho de pedidos:** 
+- 
 ![Cooperacion_despacho_de_pedidos](Imagenes/Cooperacion_despacho_de_pedidos.png) 
 
 
 - **Cooperación preparación de pedidos:** 
+- 
 ![Cooperacion_preparacion_de_pedidos](Imagenes/Cooperacion_preparacion_de_pedidos.png) 
 
 
 - **Cooperación procesos de negocio:**
-- ![Cooperacion_procesos_de_negocio](Imagenes/Cooperacion_procesos_de_negocio.png) 
+- 
+![Cooperacion_procesos_de_negocio](Imagenes/Cooperacion_procesos_de_negocio.png) 
 
 
 - **Funciones de negocio:**
+- 
 ![Funciones_de_negocio](Imagenes/Funciones_de_negocio.png)
 
 
-- **Organización:** 
+- **Organización:**
+- 
 ![organizacion](Imagenes/Organizacion.png)
 
 
 - **Por Capas:** 
+- 
 ![Por_Capas](Imagenes/Por_Capas.png)
 
 
