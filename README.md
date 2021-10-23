@@ -1,30 +1,30 @@
 
 
-#ACTIVIDAD MODELO TIENDA DE BARRIO
-#INFORMÁTICA I – GRUPO 2
+ACTIVIDAD MODELO TIENDA DE BARRIO
+INFORMÁTICA I – GRUPO 2
 
 
-#INTEGRANTES: 
+INTEGRANTES: 
 OSWALDO BORRERO NUÑEZ – COD. 20212099017
 JHON EDISON GUZMAN ARIAS – COD. 20212099020
 CARLOS ENRIQUE  ARENALES RINCÓN - 20212099016
 NATHALIA ANDREA SIERRA ORTEGA – COD. 20212099025
 
 Requerimiento: Tienda de Barrio, que desea vender sus productos por internet, con los medios de pagos electrónicos (Débito por Pse, Crédito) y Contraentrega en efectivo.
-#Roles: 
+Roles: 
 Cliente
 Administrador (Tendero)
 Domiciliario
 Proveedor
 
-#Actividades Roles: 
+Actividades Roles: 
 1. Cliente: es el consumidor de los productos.
 2. Administrador Plataforma: Se encarga de tener control del inventario de productos, actualización en la herramienta de ventas y la gestión del marketing y publicidad.
 3. Administrador Ventas: es el encargado de tomar el pedido y preparar el despacho de los productos y realizar reportes de ventas.
 4. Domiciliario: Entrega del producto a los clientes.
 
-#Historias de Usuario:
-#Cliente:
+Historias de Usuario:
+Cliente:
 1. Como cliente quiero registrarme en la plataforma web, para realizar compras.
 2. Como cliente quiero actualizar mis datos personales, para poder realizar compras
 3. Como cliente quiero consultar el catalogo productos, para poder encontrar el producto que deseo comprar.
@@ -36,7 +36,7 @@ Proveedor
 9. Como cliente quiero actualizar los datos de envío, para la recepción de mis productos.
 10. Como cliente quiero realizar  el seguimiento de mi pedido, para conocer el tiempo de entrega.
 
-#Administrador:
+Administrador:
 1. Como administrador de plataforma quiero consultar el inventario de productos, para abastecer la plataforma.
 2. Como administrador de plataforma quiero actualizar el inventario disponible, para que los clientes puedan comprar.
 3. Como administrador de la plataforma quiero realizar una promoción web, para que los clientes realicen sus compras.
@@ -48,7 +48,7 @@ Proveedor
 9. Como administrador de ventas quiero consultar el reporte de ventas por clientes al mes, para conocer el producto de mayor demanda al mes.
 10. Como administrador de ventas quiero consultar el reporte de ventas por clientes al mes, para conocer cuál es el medio de pago más utilizado por los clientes.
 
-#Domiciliario.
+Domiciliario.
 1. Como domiciliario quiero realizar la entrega de los pedidos, para completar el proceso de compra de los clientes.
 2. Como domiciliario quiero recibir el pago en efectivo de los productos, para la entrega del pedido.
 3. Como domiciliario quiero gestionar las devoluciones de pedidos, para que el administrador pueda ajustar el pedido.
