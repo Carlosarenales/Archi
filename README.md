@@ -1,5 +1,3 @@
-Introducción
-
 ## ACTIVIDAD MODELO TIENDA DE BARRIO
 INFORMÁTICA I – GRUPO 2
 
@@ -52,8 +50,36 @@ Proveedor
 2. Como domiciliario quiero recibir el pago en efectivo de los productos, para la entrega del pedido.
 3. Como domiciliario quiero gestionar las devoluciones de pedidos, para que el administrador pueda ajustar el pedido.
 
-## 
+## Vistas ARCHIMATE
 
-- **Singleton:** Garantiza que una clase sólo tenga una instancia, y proporciona un punto de acceso global a ella.
+- **Cooperación despacho de pedidos:** 
+![Cooperacion_despacho_de_pedidos](Imagenes/Cooperacion_despacho_de_pedidos.png) 
 
-![singleton](imagenes/singleton.png)
+
+- **Cooperación preparación de pedidos:** 
+![Cooperacion_preparacion_de_pedidos](Imagenes/Cooperacion_preparacion_de_pedidos.png) 
+
+
+- **Cooperación procesos de negocio:**
+- ![Cooperacion_procesos_de_negocio](Imagenes/Cooperacion_procesos_de_negocio.png) 
+
+
+- **Funciones de negocio:**
+![Funciones_de_negocio](Imagenes/Funciones_de_negocio.png)
+
+
+- **Organización:** 
+![organizacion](Imagenes/Organizacion.png)
+
+
+- **Por Capas:** 
+![Por_Capas](Imagenes/Por_Capas.png)
+
+
+- **Procesos de negocio:** 
+![Proceso_de_negocio](Imagenes/Proceso_de_negocio.png)
+
+
+- **Producto:** 
+![Producto](Imagenes/Producto.png)
+
