@@ -1,13 +1,13 @@
 ## ACTIVIDAD MODELO TIENDA DE BARRIO
 INFORMÁTICA I – GRUPO 2
 
-- **Requerimiento:** Tienda de Barrio, que desea vender sus productos por internet, con los medios de pagos electrónicos (Débito por Pse, Crédito) y Contraentrega en efectivo.
+- **Requerimiento:** Tienda de Barrio, que desea vender sus productos por internet, con los medios de pagos electrónicos (Débito por PSE, Crédito) y Contraentrega en efectivo.
 
 ## INTEGRANTES: 
-- OSWALDO BORRERO NUÑEZ – COD. 20212099017.
-- JHON EDISON GUZMAN ARIAS – COD. 20212099020
-- CARLOS ENRIQUE  ARENALES RINCÓN - 20212099016
-- NATHALIA ANDREA SIERRA ORTEGA – COD. 20212099025
+ OSWALDO BORRERO NUÑEZ – COD. 20212099017.
+ JHON EDISON GUZMAN ARIAS – COD. 20212099020
+ CARLOS ENRIQUE  ARENALES RINCÓN - 20212099016
+ NATHALIA ANDREA SIERRA ORTEGA – COD. 20212099025
 
 ## Roles: 
 Cliente.
@@ -17,7 +17,7 @@ Proveedor.
 
 ## Actividades Roles: 
 1. Cliente: es el consumidor de los productos.
-2. Administrador Plataforma: Se encarga de tener control del inventario de productos, actualización en la herramienta de ventas y la gestión del marketing y publicidad. adicionalmente, sera el encargado de tomar el pedido y preparar el despacho de los productos y realizar reportes de ventas.
+2. Administrador Plataforma: Se encarga de tener control del inventario de productos, actualización en la herramienta de ventas y la gestión del marketing y publicidad. adicionalmente, será el encargado de tomar el pedido y preparar el despacho de los productos y realizar reportes de ventas.
 4. Domiciliario: Entrega del producto a los clientes.
 
 ## Historias de Usuario:
