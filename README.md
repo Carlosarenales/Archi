@@ -95,3 +95,31 @@ INFORMÁTICA I – GRUPO 2
 
 ![Producto](Imagenes/Producto.png)
 
+- **Comportamiento de aplicación:**
+
+![Comportamiento de aplicacion](Imagenes/Comportamiento de aplicacion.png)
+
+- **Cooperación de aplicaciones:**
+
+![Cooperacion de aplicaciones](Imagenes/Cooperacion de aplicaciones.png)
+
+- **Estructura de aplicaciones:**
+
+![Estructura de aplicaciones](Imagenes/Estructura de aplicaciones.png)
+
+- **Uso de aplicación:**
+
+![Uso de aplicacion](Imagenes/Uso de aplicacion.png)
+
+- **Infraestructura:**
+
+![Infraestructura](Imagenes/Infraestructura.png)
+
+- **Uso de Infraestructura:**
+
+![Uso Infraestructura](Imagenes/Uso Infraestructura.png)
+
+- **Estructura de Información:**
+
+![Estructura de informacion](Imagenes/Estructura de informacion.png)0
+
