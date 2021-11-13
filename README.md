@@ -97,7 +97,7 @@ INFORMÁTICA I – GRUPO 2
 
 - **Comportamiento de aplicación:**
 
-![Comportamiento de aplicacion](Imagenes/Comportamiento de aplicacion.png)
+![Comportamiento_de_aplicacion](Imagenes/Comportamiento_de_aplicacion.png)
 
 - **Cooperación de aplicaciones:**
 
