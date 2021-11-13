@@ -109,7 +109,7 @@ INFORMÁTICA I – GRUPO 2
 
 - **Uso de aplicación:**
 
-![Uso de aplicacion](Imagenes/Uso de aplicacion.png)
+![Uso_de_aplicacion](Imagenes/Uso_de_aplicacion.png)
 
 - **Infraestructura:**
 
@@ -117,7 +117,7 @@ INFORMÁTICA I – GRUPO 2
 
 - **Uso de Infraestructura:**
 
-![Uso Infraestructura](Imagenes/Uso Infraestructura.png)
+![Uso_Infraestructura](Imagenes/Uso_Infraestructura.png)
 
 - **Estructura de Información:**
 
