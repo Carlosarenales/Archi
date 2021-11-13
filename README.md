@@ -101,11 +101,11 @@ INFORMÁTICA I – GRUPO 2
 
 - **Cooperación de aplicaciones:**
 
-![Cooperacion de aplicaciones](Imagenes/Cooperacion de aplicaciones.png)
+![Cooperacion_de_aplicaciones](Imagenes/Cooperacion_de_aplicaciones.png)
 
 - **Estructura de aplicaciones:**
 
-![Estructura de aplicaciones](Imagenes/Estructura de aplicaciones.png)
+![Estructura_de_aplicaciones](Imagenes/Estructura_de_aplicaciones.png)
 
 - **Uso de aplicación:**
 
