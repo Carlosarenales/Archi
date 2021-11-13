@@ -121,5 +121,5 @@ INFORMÁTICA I – GRUPO 2
 
 - **Estructura de Información:**
 
-![Estructura de informacion](Imagenes/Estructura de informacion.png)0
+![Estructura_de_informacion](Imagenes/Estructura_de_informacion.png)
 
