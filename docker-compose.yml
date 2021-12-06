@@ -1,0 +1,71 @@
+version: '3.4'
+
+services:
+  reverseproxy:
+    container_name: nginx
+    build:
+      context: ./Nginx
+      dockerfile: Nginx.Dockerfile
+    links:
+      - microserviceclientes
+      - microserviceempleados
+      - microservicepedidos
+      - microserviceproductos
+    ports:
+      - "52420:52420"
+    restart: always
+
+  microserviceclientes:
+    image: ${DOCKER_REGISTRY-}microserviceclientes
+    build:
+      context: .
+      dockerfile: MicroServiceClientes/Dockerfile
+    links:
+        - dbmongo
+    ports:
+      - "52424:80"
+
+  microserviceempleados:
+    image: ${DOCKER_REGISTRY-}microserviceempleados
+    build:
+      context: .
+      dockerfile: MicroServiceEmpleados/Dockerfile
+    links:
+        - dbmongo
+    ports:
+      - "52425:80"
+
+  microservicepedidos:
+    image: ${DOCKER_REGISTRY-}microservicepedidos
+    build:
+      context: .
+      dockerfile: MicroServicePedidos/Dockerfile
+    links:
+        - dbmongo
+    ports:
+      - "52426:80"
+
+  microserviceproductos:
+    image: ${DOCKER_REGISTRY-}microserviceproductos
+    build:
+      context: .
+      dockerfile: MicroServiceProductos/Dockerfile
+    links:
+        - dbmongo
+    ports:
+      - "52427:80"
+
+  dbmongo:
+    hostname: host-mongo
+    container_name: mongodatabase
+    image: mongo:latest
+    expose:
+        - 27010
+    ports: 
+        - "27017:27017"
+    restart: always
+    environment:
+        MONGO_INITDB_ROOT_USERNAME: root
+        MONGO_INITDB_ROOT_PASSWORD: freepass
+    volumes:
+        - ./Mongo/data:/data/db
